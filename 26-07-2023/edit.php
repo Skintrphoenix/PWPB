@@ -17,7 +17,7 @@
     <label for="nama">kelas</label>
     <input type="text" name="kelas" id="kelas" placeholder="kelas" value="<?= $data['kelas'] ?>">
     <br>
-    <input type="submit" value="Tambah">
+    <input type="submit" value="Ubah">
 </form>
 
 <?php
